@@ -3,6 +3,21 @@ MOTION-Mask-RCNN
 
 Repository for Crack Detection Computer Vision Model
 
+Open Source License Acknowledgements
+------------
+
+This product contains software provided by the following:  
+
+### DrivenData, Inc.  
+License: MIT License  
+https://github.com/drivendata/cookiecutter-data-science  
+Copyright (c) 2019 DrivenData, Inc.  
+  
+### Matterport, Inc.  
+License: MIT License  
+https://github.com/matterport/Mask_RCNN  
+Copyright (c) 2017 Matterport, Inc.    
+
 Project Organization
 ------------
 
