@@ -18,6 +18,12 @@ License: MIT License
 https://github.com/matterport/Mask_RCNN  
 Copyright (c) 2017 Matterport, Inc.    
 
+### Virginia Tech  
+License: Creative Commons CC0 1.0 Universal Public Domain  
+https://data.lib.vt.edu/articles/dataset/Concrete_Crack_Conglomerate_Dataset/16625056/1  
+https://doi.org/10.7294/16625056  
+https://doi.org/10.7294/16628596  
+
 Project Organization
 ------------
 
@@ -66,7 +72,11 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
+Installing development requirements
+------------
 
---------
+    pip install -r requirements.txt
+    
+------------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
